@@ -1,0 +1,14 @@
+validacion/page.tsx
+export default function Validacion() {
+  return (
+    <main style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
+      <h1>Validación Técnica</h1>
+      <p>Este módulo ha sido validado con profesionales de salud mental y usuarios en entornos clínicos reales.</p>
+      <ul>
+        <li>+50 pacientes en atención continua</li>
+        <li>OTEC con talleres simulados</li>
+        <li>Ficha clínica funcional</li>
+      </ul>
+    </main>
+  );
+}
